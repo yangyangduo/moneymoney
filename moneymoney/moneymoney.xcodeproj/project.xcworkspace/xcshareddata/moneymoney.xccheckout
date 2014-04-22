@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30F46E32-8B08-42C0-B380-2B758A6DBD4B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>moneymoney</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B02E7F5B-560A-4903-9FE6-B18639034609</key>
+		<string>https://github.com/yangyangduo/moneymoney.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>moneymoney/moneymoney.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B02E7F5B-560A-4903-9FE6-B18639034609</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yangyangduo/moneymoney.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B02E7F5B-560A-4903-9FE6-B18639034609</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B02E7F5B-560A-4903-9FE6-B18639034609</string>
+			<key>IDESourceControlWCCName</key>
+			<string>moneymoney</string>
+		</dict>
+	</array>
+</dict>
+</plist>
